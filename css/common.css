@@ -185,12 +185,6 @@ body {
   background: #6c8cff;
 }
 
-.change-color:focus,
-.change-color:active {
-  background: #6c8cff; /* Залишає той самий колір при натисканні */
-  outline: none; /* Вимикає зовнішній контур при фокусі */
-}
-
 /* Task 6 */
 
 .boxes-form-wrap {
